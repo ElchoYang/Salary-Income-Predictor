@@ -1,2 +1,2 @@
-# Salary-Income-Predictor
+# SalaryIncomePredictor
 Salary Income Predictor
